@@ -30,6 +30,6 @@ for user create or student
 Admin
 user: admin@example.com
 pass: admin
-
-****** https://www.campcodes.com/ ******
-Subcribe my Youtube Channel **** SerBermz ****
+Admin
+user: nousainther@gmail.com
+pass: 252565
